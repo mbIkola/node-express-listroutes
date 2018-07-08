@@ -1,6 +1,6 @@
 {
   "name": "@coinminex/express-listroutes",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Some extracted shit to simplify controllers creation for express apps. ",
   "main": "src/index.js",
   "scripts": {
