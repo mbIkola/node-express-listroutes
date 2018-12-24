@@ -1,5 +1,5 @@
 {
-  "name": "@coinminex/express-listroutes",
+  "name": "express-listroutes",
   "version": "2.0.0",
   "description": "Some extracted shit to simplify controllers creation for express apps. ",
   "main": "src/index.js",
@@ -8,11 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.adtelligent.com:crypto/express-listroutes.git"
-  },
-  "publishConfig": {
-    "registry": "https://npm.verta.host/",
-    "tag": "latest"
+    "url": "ssh://git@github.com:mbIkola/node-express-listroutes.git"
   },
   "keywords": [
     "express",
